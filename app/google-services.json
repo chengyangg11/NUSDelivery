@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678485036920",
+    "firebase_url": "https://nus-delivery-ee6fe.firebaseio.com",
+    "project_id": "nus-delivery-ee6fe",
+    "storage_bucket": "nus-delivery-ee6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678485036920:android:d03c1e626a2ef9fa",
+        "android_client_info": {
+          "package_name": "com.example.chengyang.nusdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678485036920-iagtt42qg017d19mmbcsot0a5brdrq86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chengyang.nusdelivery",
+            "certificate_hash": "5364adbff8a90f3b7848f985d7f215a98a68e5ff"
+          }
+        },
+        {
+          "client_id": "678485036920-0nb1rnddajuob0upnohk9fra95m9t7po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQIIf-ssJKSgReJolkaoRJUf-aKjI3KM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678485036920-0nb1rnddajuob0upnohk9fra95m9t7po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
